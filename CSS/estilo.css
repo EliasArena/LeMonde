@@ -1,0 +1,110 @@
+body{
+    background-color: white; 
+}
+/* Encabezado */
+header{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px ;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+.Usuario-carrito{
+    justify-content: right;
+    display: flex;
+    margin-bottom: 0px ;
+}
+.usuario{
+    width: 23px;
+    height: 23px;
+    margin-right: 5px;
+    margin-left: 300px;
+}
+.canasto{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+    /* Menu */
+nav{
+    margin: 1%;
+    justify-content: center;
+    color: rgba(0, 0, 0, 0.89);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+
+/* Imagen inicial */
+.main__image{
+    width: 100%;
+    border-radius: 3px;
+}
+/* Contactanos*/
+form{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    text-align: centlefter;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0px;
+    margin: 0px 200px 0px 200px
+}
+.destacado{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.imagen-1-vela{
+    width: 350px;
+    height: 350px;
+    margin-right: 20px;
+}
+.imagen-2-deco{
+    width: 350px;
+    height: 350px;
+    margin-right: 20px;
+}
+.imagen-3-destacado{
+    width: 350px;
+    height: 350px;
+    margin-right: 20px;
+}
+/* Mapa */
+.ubicación{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    margin: 60px 60px 60px 60px
+}
+/* Pie de pagina */ 
+footer{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(197, 197, 197);
+    color: black;
+    text-align: center;
+    margin: 50px 0px 0px 0px;
+    padding: 50px 200px 50px 200px;
+}
+.facebook{
+    width: 20px;
+    height: 20px;
+    margin-right: 3px;
+}
+.instagram{
+    width: 20px;
+    height: 20px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+.pinterest{
+    width: 20px;
+    height: 20px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
